@@ -1,0 +1,7 @@
+1#T1#Corea
+3#MDK#EU
+6#G2#EU
+8#FlyQuest#EEUU
+11#BLG#China
+12#WBG#China
+13#GenG#china

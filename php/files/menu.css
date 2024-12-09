@@ -1,0 +1,43 @@
+/* styles.css */
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sidebar {
+  width: 150px;
+  float: left;
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+div.sidebar{
+  position: fixed;
+  height: 100%;
+}
+.sidebar h3 {
+  margin-top: 0;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin: 10px 0;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.sidebar ul li a:hover {
+  color: #007BFF;
+}
+
+.main-content {
+  margin-left: 180px; /* Añade un poco más que el ancho del sidebar para el espaciado */
+  padding: 20px;
+}
